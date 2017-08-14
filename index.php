@@ -82,7 +82,7 @@
 		
 		  // showData();
 		  timeOut();
-            $('#button').click(function(e){
+            $('#insertComment').submit(function(e){
                 e.preventDefault();
                 var name = $('#name').val();
                 var comment = $('#comment').val();

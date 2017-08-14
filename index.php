@@ -56,7 +56,7 @@
 
     <div class="form-group" align="right">        
       <div class="col-sm-offset-2 col-sm-10">
-        <button type="button" id="button" class="btn btn-success">Post</button>
+        <button  id="button" class="btn btn-success">Post</button>
       </div>
     </div>
   </form>
